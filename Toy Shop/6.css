@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    transition: 1s;
+}
+body{
+    background-color: #FBEEAC;
+}
+.oyuncak img{
+    float: right;
+    width: 570px;
+    margin-top: 75px;
+    margin-right: 50px;
+}
+h2{
+    font-size: 35px;
+    font-style: italic;
+    color: #efc806;
+    margin-top: 35px;
+    margin-left: 50px;
+}
+input{
+    float: right;
+    margin-top: -50px;
+    margin-right: -550px;
+    padding: 5px 18px 5px 22px;
+    border-radius: 25px;
+    width: 300px;
+    border: 3px solid #efc806;
+}
+i{
+    float: right;
+    margin-right: -510px;
+    margin-top: -40px;
+    color: #efc806;
+}
+i:hover{
+    cursor: pointer;
+}
+h3{
+    margin-left: 50px;
+    color: #b2a668;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 30px;
+}
+#barbie{
+    border-radius: 50%;
+    width: 130px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#toyzz{
+    border-radius: 50%;
+    width: 130px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#hot-wheels{
+    border-radius: 50%;
+    width: 110px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#thomas{
+    border-radius: 50%;
+    width: 130px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#barbie:hover,
+#toyzz:hover,
+#hot-wheels:hover,
+#thomas:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#bebek{
+    border-radius: 50%;
+    width: 130px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#bebek:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#car{
+    border-radius: 50%;
+    width: 150px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#car:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#uno{
+    border-radius: 50%;
+    width: 130px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#uno:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#renkli{
+    border-radius: 50%;
+    width: 130px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+#renkli:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.main{
+    margin-top: 185px;
+    width: 1519px;
+    height: 400px;
+    background-color: #f3d958;
+}
+.main #childrenn{
+    height: 400px;
+}
+.main h5{
+    float: right;
+    text-align: center;
+    justify-content: center;
+    margin-top: 150px;
+    font-size: 22px;
+    margin-right: 40px;
+    font-style: italic;
+    color: #fff;
+}
